@@ -7,10 +7,10 @@
 
 ## **IMAGE INTERPRETER BOT :**
 ![vis](https://github.com/DasPua/Gemini_API_Projects/assets/124070372/e0e2cbef-6f10-4e82-baeb-04d0c1edfa81)
-726191d63473)
+
 ![vis res](https://github.com/DasPua/Gemini_API_Projects/assets/124070372/90010013-7fab-4ab1-bfda-89c8d2bd9ea4)
 
 ## **CHAT BOT WITH HISTORY :**
 ![chat](https://github.com/DasPua/Gemini_API_Projects/assets/124070372/35286abb-7630-40f7-a5a6-b8ab0598f333)
-a4)
+
 
